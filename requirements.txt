@@ -1,0 +1,8 @@
+ipykernel
+nixtla
+python-dotenv
+pandas 
+numpy
+matplotlib 
+sns 
+scikit-learn
